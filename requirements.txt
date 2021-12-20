@@ -1,0 +1,2 @@
+- Changing the port on the web.py file
+- Make sure flask is installed in the directory
